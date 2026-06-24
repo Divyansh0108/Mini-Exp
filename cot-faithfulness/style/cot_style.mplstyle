@@ -1,0 +1,43 @@
+figure.facecolor    : FAF7F2
+figure.dpi          : 150
+figure.figsize      : 10, 6
+
+axes.facecolor      : FAF7F2
+axes.edgecolor      : E4DDD4
+axes.labelcolor     : 1C1917
+axes.titlecolor     : 1C1917
+axes.titlesize      : 14
+axes.titleweight    : bold
+axes.titlepad       : 14
+axes.labelsize      : 11
+axes.labelpad       : 8
+axes.spines.top     : False
+axes.spines.right   : False
+axes.grid           : True
+axes.axisbelow      : True
+
+grid.color          : E4DDD4
+grid.linewidth      : 0.8
+grid.alpha          : 1.0
+
+font.family         : serif
+font.size           : 11
+
+xtick.color         : 6B6560
+ytick.color         : 6B6560
+xtick.labelsize     : 10
+ytick.labelsize     : 10
+xtick.major.pad     : 6
+ytick.major.pad     : 6
+
+legend.frameon          : True
+legend.framealpha       : 1.0
+legend.facecolor        : FAF7F2
+legend.edgecolor        : E4DDD4
+legend.fontsize         : 10
+legend.title_fontsize   : 11
+
+savefig.facecolor   : FAF7F2
+savefig.bbox        : tight
+savefig.dpi         : 150
+savefig.pad_inches  : 0.3
